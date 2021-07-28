@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abhishek Sharma
-- 👀 I’m interested in Web Development
+- 👀 I’m Full Stack Developer(MERN stack).
 - 🌱 I’m currently learning Machine Lerarning , MERN stack
 - 📫 How to reach me aatish3670@gmail.com
