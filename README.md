@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Abhishek Sharma
-- 👀 I’m Data scientist.
-- 🌱 I’m currently learning Machine Lerarning, AI, LLM, and Agentic AI
-- 📫 How to reach me aatish3670@gmail.com
+👋 Hi, I’m Abhishek Sharma
 
-jack of all trade, master on none
+🧠 Data Scientist  
+🤖 Exploring ML, AI, LLMs & Agentic AI  
+🛠️ Learning everything. Mastering nothing. Breaking things along the way.
+
+> Jack of all trades, master of none.  
+> Expert at adding “one more thing” to the stack.
