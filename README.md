@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-&gt; Jack of all trades, master of none.    
-&gt; Expert at adding “one more thing” to the stack.
+Jack of all trades, master of none.    
+Expert at adding “one more thing” to the stack.
 
 ### 🛠️ Tech Stack
 
